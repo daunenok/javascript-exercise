@@ -1,0 +1,19 @@
+body {
+	padding: 50px;	
+}
+h2, div, p {
+	background-color: #66ccff;
+	padding: 10px;
+}
+h2 {
+	font-size: 130%;
+	border-radius: 10px 10px 0 0;
+}
+div {
+	margin-bottom: 20px;
+	border-radius: 0 0 10px 10px;
+}
+p {
+	background-color: #0099ff;
+	margin-bottom: 40px;
+}
