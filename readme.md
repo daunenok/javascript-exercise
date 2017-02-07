@@ -1,0 +1,1 @@
+Javascript exercise from The Odin Project. Problems 1 and 2 from project Euler.
